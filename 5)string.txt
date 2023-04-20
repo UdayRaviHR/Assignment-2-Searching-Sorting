@@ -1,0 +1,7 @@
+Write a program to sort list of strings:
+
+
+
+my_list =["uday", "vikas", "abhi", "baskar", "chetan"]
+new_list = sorted(my_list)
+print(new_list)
